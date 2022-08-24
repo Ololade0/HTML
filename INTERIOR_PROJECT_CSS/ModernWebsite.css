@@ -1,0 +1,96 @@
+
+@import url('hhtps://fonts.goggleapis.com/css?family=Raleway:300, 400;');
+@import url("hhtps://fonts.goggleapis.com/css?family=Metal+Mania");
+@font-face{
+font-family:"Booter - Zero Zero";
+src: url("Fonts/Booter - Zero Zero.woff") format("woff"),
+url("Fonts/Booter - Zero Zero.woff2")format("woff2");
+font-weight: normal;
+font-style: normal;
+
+
+
+}
+
+*{
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+#main {
+  margin-top: 0%;
+  margin: 0;
+  padding: 0;
+background-image: url(/Images/logistics-transportation-container-cargo-ship-260nw-1937157184.webp);
+background-repeat:repeat;
+font-size: large ;
+/* width: 900px; */
+background-attachment:fixed;
+padding-bottom: 130px;
+}
+.nav ul{
+    margin: 0 ;
+    
+}
+
+.nav li{
+    display: inline-block;
+}
+.nav a {
+    padding: .5em;
+    color: whitesmoke;
+    text-decoration: none;
+}
+.nav a:hover{
+    background-color: gray;
+}
+.main-nav{
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: lighter;
+    border-bottom: 1px solid gray;
+}
+.main-nav li{
+    padding: 0 5%;
+
+}
+.biz{
+    text-align: center;
+    margin: 0;
+    font-size: 4em;
+    font-family:"Booter - Zero Zero";
+    font-weight: normal;
+    color: navy;
+}
+
+.biz-name-large{
+    font-size: 4em;
+
+}
+
+.About{
+    margin: 1em;
+
+}
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+    padding:  i.5em;
+}
+.about{
+    font-family: "Metal Mania";
+    font-weight: normal;
+    color: peru;
+    text-align: center;
+    font-size: 2.5em;
+
+}
+.images{
+    float: left;
+    height: 400px;
+    width: 400px;
+    margin: 15px;
+    border-radius: 50%;
+    margin-top: 100px;
+}

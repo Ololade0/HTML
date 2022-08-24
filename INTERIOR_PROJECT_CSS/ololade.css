@@ -1,0 +1,36 @@
+body {
+  background-image: url(/Images/Chair.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat-y;
+  margin-top: 200px;
+}
+#p2 {
+  font-size: medium;
+  color: black;
+  text-align: center;
+}
+#p1 {
+  font-size: xx-large;
+  text-align: center;
+  color: navy;
+  font-style: italic;
+  font-weight: bold;
+
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#p4 {
+  color: purple;
+  font-size: xx-large;
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+}
+
+#about {
+  color: blueviolet;
+  font-size: medium;
+flex-direction: row;
+  padding-top: 40px;
+}

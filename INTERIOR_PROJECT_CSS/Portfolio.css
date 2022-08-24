@@ -1,0 +1,43 @@
+body {
+  background-color :yellowgreen;
+  background-blend-mode: color-dodge;
+  background-attachment: fixed;
+}
+#portfolio {
+  color: blue;
+  text-align: left;
+  font-size: xx-large;
+  text-decoration: underline;
+  margin: 40px;
+}
+#nav {
+  display: flex;
+  float: right;
+  text-align: right;
+  display: inline;
+  padding: .5em;
+  color: blanchedalmond;
+  text-decoration: none;
+}
+#nav li{
+  display: inline;
+
+}
+#hello {
+  color: white;
+  margin-left: 40px;
+  
+}
+
+#ololade {
+  color: navy  ;
+   margin-left: 50px; 
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+}
+
+#software {
+  color: white;
+  margin-left: 40px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
